@@ -1,0 +1,18 @@
+#spancomponent  {
+    color: violet;
+}
+#container {
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+}
+#postdatadiv {
+    width: 345px;
+    padding: 20px;
+    margin: 15px;
+    
+    border: 1px solid blueviolet;
+}
+#spinner {
+    width: 30px;
+    margin: 0 auto;
+}
